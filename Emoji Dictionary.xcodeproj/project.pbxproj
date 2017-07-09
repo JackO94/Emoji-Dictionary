@@ -12,6 +12,7 @@
 		8D9C07871F11B12900E0588A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D9C07851F11B12900E0588A /* Main.storyboard */; };
 		8D9C07891F11B12900E0588A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D9C07881F11B12900E0588A /* Assets.xcassets */; };
 		8D9C078C1F11B12900E0588A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D9C078A1F11B12900E0588A /* LaunchScreen.storyboard */; };
+		8D9C07941F11C9CD00E0588A /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D9C07931F11C9CD00E0588A /* DefinitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8D9C07881F11B12900E0588A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D9C078B1F11B12900E0588A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D9C078D1F11B12900E0588A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D9C07931F11C9CD00E0588A /* DefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8D9C07811F11B12900E0588A /* AppDelegate.swift */,
 				8D9C07831F11B12900E0588A /* ViewController.swift */,
 				8D9C07851F11B12900E0588A /* Main.storyboard */,
+				8D9C07931F11C9CD00E0588A /* DefinitionViewController.swift */,
 				8D9C07881F11B12900E0588A /* Assets.xcassets */,
 				8D9C078A1F11B12900E0588A /* LaunchScreen.storyboard */,
 				8D9C078D1F11B12900E0588A /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D9C07841F11B12900E0588A /* ViewController.swift in Sources */,
+				8D9C07941F11C9CD00E0588A /* DefinitionViewController.swift in Sources */,
 				8D9C07821F11B12900E0588A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
